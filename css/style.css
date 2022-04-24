@@ -50,6 +50,7 @@ p {
   padding: 13px 20px;
   border: none;
   cursor: pointer;
+  border-radius: 10px;
 }
 
 .btn:hover {
@@ -83,6 +84,7 @@ p {
 
 .l-heading {
   font-size: 40px;
+  line-height: 1.2;
 }
 
 .py-1 {
@@ -107,7 +109,7 @@ p {
   color: #fff;
 }
 
-#navbar h1 {
+#navbar .logo {
   float: left;
   padding-top: 20px;
 }
@@ -162,13 +164,13 @@ p {
 
 /* Hom Info */
 #home-info {
-  height: 400px;
+  height: 450px;
 }
 
 #home-info .info-img {
   float: left;
   width: 50%;
-  background: url("../images/hall.jpg") no-repeat;
+  background: url("../images/hall2.jpg") no-repeat;
   min-height: 100%;
   background-position: center;
   background-size: cover;
@@ -260,6 +262,8 @@ p {
   width: 100%;
   padding: 10px;
   border: 1px #ddd solid;
+  background-color: #f7c08a;
+  border-radius: 10px;
 }
 
 #contact-form textarea {
