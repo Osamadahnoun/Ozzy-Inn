@@ -7,3 +7,7 @@
 ## Deployed Application
 
 - https://osamadahnoun.github.io/Ozzy-Inn/
+
+## Screenshot of homepage
+
+![Screenshot](./images/screenshot.png)
