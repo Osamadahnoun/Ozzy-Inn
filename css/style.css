@@ -197,6 +197,11 @@ p {
   text-align: center;
 }
 
+.box p {
+  color: #fff;
+  display: block;
+}
+
 .box i {
   margin-bottom: 10px;
 }
