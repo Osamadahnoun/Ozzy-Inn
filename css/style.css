@@ -64,7 +64,7 @@ p {
 }
 
 .bg-dark {
-  background-color: red;
+  background-color: #333;
   color: #fff;
 }
 
@@ -195,11 +195,6 @@ p {
   width: 33.3%;
   padding: 50px;
   text-align: center;
-}
-
-.box p {
-  color: white;
-  display: block;
 }
 
 .box i {
