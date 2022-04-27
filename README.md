@@ -1,8 +1,8 @@
-# Ozzy-Inn (UI mastery series 1 of 7)
+# Ozzy-Inn (UI mastery series 1 of 8)
 
 ## Description
 
-This project is the first in my UI mastery series. The UI mastery series is a series I created consisting of seven total projects (mini and full projects) to really master my UI development skills. For this project, I've built a beautiful website for a hotel named Ozzy Inn.
+This project is the first in my UI mastery series. The UI mastery series is a series I created consisting of eight total projects (mini and full projects) to really master my UI development skills. For this project, I've built a beautiful website for a hotel named Ozzy Inn.
 
 ## Deployed Application
 
